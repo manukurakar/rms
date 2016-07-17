@@ -1,0 +1,10 @@
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\bin\Debug\SReports.exe.config
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\bin\Debug\SReports.exe
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\bin\Debug\SReports.pdb
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.csprojResolveAssemblyReference.cache
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.Form1.resources
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.Properties.Resources.resources
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.csproj.GenerateResource.Cache
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.exe
+c:\users\_g\documents\visual studio 2012\Projects\SReports\SReports\obj\Debug\SReports.pdb
+C:\Users\_g\Documents\Visual Studio 2012\Projects\SReports\SReports\obj\Debug\SReports.Dashboard.resources
